@@ -30,7 +30,7 @@ int main()
         count++;
       }
     }
-    if (count > maxCount)
+    if (count > maxCount) // not equal to
     {
       maxCount = count;
       index = i;
